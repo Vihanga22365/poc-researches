@@ -1,0 +1,7 @@
+streamlit==1.35.0
+python-dotenv
+langchain  
+langchain_community
+langchain_core
+openai
+tenacity>=8.1.0,!=8.4.0

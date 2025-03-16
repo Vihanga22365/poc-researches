@@ -1,0 +1,13 @@
+pandas
+streamlit==1.27.2
+streamlit-extras
+python-dotenv
+langchain
+openai==0.28
+google-generativeai
+langchain-google-genai
+st-pages
+langchain-community
+openpyxl
+tenacity>=8.1.0,!=8.4.0
+

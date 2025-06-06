@@ -1,0 +1,12 @@
+google-adk
+langchain
+langchain-community
+langchain_openai
+faiss-cpu
+litellm
+pandas
+matplotlib
+statsmodels
+tabulate
+unstructured
+unstructured[pdf]

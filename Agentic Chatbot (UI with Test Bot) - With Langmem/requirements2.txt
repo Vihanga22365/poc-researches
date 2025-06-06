@@ -1,0 +1,6 @@
+crewai
+langchain
+python-dotenv
+regex
+requests
+streamlit
